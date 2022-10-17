@@ -1,0 +1,61 @@
+
+#tekst{
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    
+    
+    #navbar {
+        width: 100%;
+        background-color: white;
+        height: 70px;
+    
+      }
+    
+       #navbar a {
+           float: left;
+           display: block;
+           color: black;
+          width:150px;
+           text-align: center;
+           padding: 23px 25px;
+           text-decoration: none;
+           font-size: 23px;
+          border-radius: 0px 15px 15px 0;
+          background-color:#3eb0f7;
+           
+       }
+    
+       #box1 {
+        width: 50px;
+        height: 50px;
+        -webkit-border-radius: px;
+        -moz-border-radius: px;
+        border-radius: px;
+        background: #C4C4C4;
+      }
+
+      #bg-fon {
+        background-color:rgba(0,0,0,.3);
+        height:100%;
+        position:fixed;
+        width:100%;
+        top:0;
+        left:0;
+    }
+
+    #virsraksts {
+      position: fixed;
+      left: 900px;
+      top: 100px;
+      font-family: Sans-serif;
+      font-size: 15px;
+      }
