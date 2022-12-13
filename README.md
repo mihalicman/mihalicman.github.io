@@ -1,3 +1,2 @@
 # mysite
-
-Nevaru dabūt linku no GITHUB Pages.
+[mihalicman](https://mihalicman.github.io/)
