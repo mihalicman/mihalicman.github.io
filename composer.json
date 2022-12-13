@@ -1,0 +1,11 @@
+{
+    "name": "01dpmbogomolovs/mysite",
+    "description": "This is my site",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "App\\": "src/"
+        }
+    }
+}
